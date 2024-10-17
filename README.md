@@ -10,3 +10,5 @@ A few words engraved
  Cette figurine fait référence à la nouvelle de H.P. Lovecraft "L'appel de Cthulhu" parue en 1928 
 
  Cadavre-Exquis-David is a collaborative art project that brings together diverse artistic styles and ideas to create unique and unexpected works.
+
+ Let's go ! (try if it's working xD)
